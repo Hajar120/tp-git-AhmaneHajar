@@ -1,4 +1,4 @@
-console.log("conflict A")
+console.log("conflict by A")
 console.log("Update from feature branch")
 console.log("Feature FF")
 console.log("Feature NO-FF")
